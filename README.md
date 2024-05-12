@@ -3,7 +3,7 @@ Tetris in your terminal.
 <!--Badges-->
 ![Static Badge](https://img.shields.io/badge/TetrisT-Soglopr-Soglopr)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/soglopr/TetrisT)
-![GitHub watchers](https://img.shields.io/github/watchers/soglopr/TerisT)
+![GitHub watchers](https://img.shields.io/github/watchers/soglopr/TetrisT)
 ![GitHub Repo stars](https://img.shields.io/github/stars/soglopr/TetrisT)
 ![GitHub License](https://img.shields.io/github/license/soglopr/TetrisT)
 
